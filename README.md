@@ -53,28 +53,28 @@ pip install -r requirements.txt
 python remove.py
 ```
 
-![[3.png]]
+  ![](Images/3.png)
 
 - Press copy button on GPT output
   
-  ![[1.png]]
+  ![](Images/1.png)
   
   It looks like this, I want to remove the bolding markdown:
   
-  ![[2.png]]
+  ![](Images/2.png)
   
 - Enter strings to remove in top text box of remove.py gui
 - press Paste, Process, and Copy button
   
-  ![[4.png]]
+  ![](Images/4.png)
 
 Processed text is copied to your clipboard automatically and it is stored in the lower text box until a new input is processed
 
-![[5.png]]
+![](Images/5.png)
 Output:
 
-![[6.png]]
+![](Images/6.png)
 
 Removing last piece of text as well:
 
-![[7.png]]
+![](Images/7.png)
