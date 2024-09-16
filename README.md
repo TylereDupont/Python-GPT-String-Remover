@@ -68,7 +68,7 @@ Run GPT String Remover.exe
   
   ![](Images/1.png)
   
-  It looks like this, I want to remove the bolding markdown:
+  It looks like this. I want to remove the bolding markdown:
   
   ![](Images/2.png)
   
