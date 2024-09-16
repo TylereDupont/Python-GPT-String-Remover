@@ -87,3 +87,14 @@ Output:
 Removing last piece of text as well:
 
 ![](Images/7.png)
+
+---
+## Useful Removals
+
+````
+**
+---
+###
+`
+```
+````
