@@ -3,7 +3,12 @@
 Quickly (One Click) remove GPT text strings such as markdown formatting using the gui of this python script. 
 
 One click paste, process and copy input.
+
+Useful especially for bulk workloads or multiple inputs.
+
 ## Requirements
+
+***If you are using the .exe file, you can ignore requirements and installation, just download the .exe and run it***
 
 - pyperclip
 
@@ -52,6 +57,10 @@ pip install -r requirements.txt
 ```
 python remove.py
 ```
+
+OR
+
+Run GPT String Remover.exe
 
   ![](Images/3.png)
 
